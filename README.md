@@ -1,1 +1,1 @@
-This is my new git hub session for my pevious students.
+This is my new git and github session for my pevious students.
